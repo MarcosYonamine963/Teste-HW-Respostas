@@ -16,5 +16,12 @@ Iniciando-se pela Alimentação, tem-se um circuito com a Bateria de Lithium:
 
 Em seguida, realizando-se o circuito projetado na Questão 1, tem-se:
 
+![Comparador_Esquematico](https://user-images.githubusercontent.com/92953755/138535249-39d4d1cb-6958-43ff-afef-6ef4dfa29c28.PNG)
+
+
+E a saída desse circuito é conectada a um Pino Digital de um Arduino Uno:
+
+
+
 
 
