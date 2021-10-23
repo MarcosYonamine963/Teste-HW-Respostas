@@ -38,7 +38,9 @@ Realizando-se o Roteamento da placa, obteve-se:
 ![Roteamento](https://user-images.githubusercontent.com/92953755/138536039-d71972f1-9ecc-48ad-9727-24f43950f45a.PNG)
 
 E na Visualização 3D, tem-se:
+
 ![3D](https://user-images.githubusercontent.com/92953755/138536041-29ebe1f5-a381-4e72-b125-4523a878329f.PNG)
+
 ![3D_Verso](https://user-images.githubusercontent.com/92953755/138536036-073fcaa4-2b8e-425d-8fc2-8b208f21af6b.PNG)
 
 Arquivos do Projeto:
