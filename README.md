@@ -55,7 +55,7 @@ Um ponto positivo  da PCI apresentada é a separação entre os circuitos analó
 
 Outra observação importante é a separação entre as malhas do circuito analógico e a malha do circuito digital, fazendo-se assim planos de terras diferentes, conectados por pontos específicos.
 
-As malhas de terra ou de alimentação também ajudam a manter a radiação e o crosstalk dos circuitos digitais de alta frequência sob controle. Além disso, é recomendado que as trilhas desses sinais sejam as mais curtas possíveis. Assim, uma sugestão seria mudar a localização do gerador de clock para mais próximo dos pontos de utilização, ou seja, colocá-lo entre os três circuitos integrados. Fazendo isso, além de reduzir o comprimento da trilha de clock, irá afastá-lo da fonte chaveada, que poderia introduzir ruídos ao clock.
+As malhas de terra ou de alimentação também ajudam a manter sob controle a radiação e o crosstalk dos circuitos digitais de alta frequência. Além disso, é recomendado que as trilhas desses sinais sejam as mais curtas possíveis. Assim, uma sugestão seria mudar a localização do gerador de clock para mais próximo dos pontos de utilização, ou seja, colocá-lo entre os três circuitos integrados. Fazendo-se isso, além de reduzir o comprimento da trilha de clock, irá afastá-lo da fonte chaveada, que poderia introduzir ruídos ao clock.
 
 Capacitores de desacoplamento são importantes para desviar os ruídos de alta frequência nos pontos de alimentação do circuito. Como observado, os cicuitos integrados já possuem capacitores de desacoplamento na alimentação. Porém, pode-se adicionar também para a fonte chaveada, reduzindo os ruídos de alta frequência que poderiam ser transmitidos para o restante do circuito.
 
