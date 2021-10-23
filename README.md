@@ -34,9 +34,15 @@ PDF do esquemático:
 
 Realizando-se o Roteamento da placa, obteve-se:
 
-
+![Roteamento](https://user-images.githubusercontent.com/92953755/138536662-210d519f-07bb-431b-a736-652c00ec1a4d.PNG)
 
 E na Visualização 3D, tem-se:
 
+![3D](https://user-images.githubusercontent.com/92953755/138536663-f5e0f904-fb95-487f-8631-6beb405e150e.PNG)
+
+![3D_Verso](https://user-images.githubusercontent.com/92953755/138536664-43857402-48a2-40f9-92a8-b58213db48f4.PNG)
 
 Arquivos do Projeto:
+[Circuitos.zip](https://github.com/MarcosYonamine963/Teste-HW-Respostas/files/7402005/Circuitos.zip)
+
+
