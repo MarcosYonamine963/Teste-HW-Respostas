@@ -12,6 +12,9 @@ Utilizando Resistor Dependente de Luz (LDR) e um Amplificador Operacional na top
 Iniciando-se pela Alimentação, tem-se um circuito com a Bateria de Lithium:
 
 
+![Bateria_Esquematico](https://user-images.githubusercontent.com/92953755/138535172-8e3ffb57-516e-4bb9-a8d8-f7c79a5ba4c1.PNG)
+
+Em seguida, realizando-se o circuito projetado na Questão 1, tem-se:
 
 
 
