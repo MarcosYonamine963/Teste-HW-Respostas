@@ -1,5 +1,7 @@
 # Teste-HW-Respostas
 
+Link do Teste: https://github.com/lsclaudino-hw/Teste-HW
+
 ## Exercício 1
 
 Utilizando Resistor Dependente de Luz (LDR) e um Amplificador Operacional na topologia de Comparador de Histerese, assim como um potenciômetro para ajustar as tensões de limiar, tem-se o circuito apresentado abaixo:
