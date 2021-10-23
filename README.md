@@ -25,6 +25,8 @@ E a saída desse circuito é conectada a um Pino Digital de um Arduino Uno:
 ![ArduinoUno_Esquematico](https://user-images.githubusercontent.com/92953755/138535306-a8119ded-3ef8-49cf-8dba-2568d35eeceb.PNG)
 
 
-Arquivos do esquemático:
+PDF do esquemático:
+
+[Esquematico.pdf](https://github.com/MarcosYonamine963/Teste-HW-Respostas/files/7401929/Esquematico.pdf)
 
 
