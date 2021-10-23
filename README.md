@@ -7,7 +7,9 @@ Utilizando Resistor Dependente de Luz (LDR) e um Amplificador Operacional na top
 <img src="https://user-images.githubusercontent.com/92953755/138379192-75c72d84-0ffa-435f-9554-113a34a3e045.jpg" width="585" height="414">
 
 
+## Exercício 2
 
+Iniciando-se pela Alimentação, tem-se um circuito com a Bateria de Lithium:
 
 
 
