@@ -30,3 +30,7 @@ PDF do esquemático:
 [Esquematico.pdf](https://github.com/MarcosYonamine963/Teste-HW-Respostas/files/7401929/Esquematico.pdf)
 
 
+## Exercício 3
+
+Realizando-se o Roteamento da placa, obteve-se:
+
